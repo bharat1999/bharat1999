@@ -14,5 +14,5 @@ I'm Bharat Malik pursuing my engineering in the field of information technology 
 - 👯 I’m looking to collaborate on interesting web projects. 
 - 💬 Ask me about anything, I'm up for a chat .
 
-[![Linkedin Badge](https://img.shields.io/badge/-BharatMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-malik-91b884192/)](https://www.linkedin.com/in/bharat-malik-91b884192/)  [![Gmail Badge](https://img.shields.io/badge/-SwarajRoutray-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swarajroutray961@gmail.com)](mailto:swarajroutray961@gmail.com)
-[![website](https://img.shields.io/badge/Swaraj-Portfolio-2648ff?style=flat-square&logo=google-chrome)](https://swaraj-portfolio.web.app/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj961&label=Profile Views&color=blue&style=plastic" alt="swaraj961" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-BharatMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-malik-91b884192/)](https://www.linkedin.com/in/bharat-malik-91b884192/)  [![Gmail Badge](https://img.shields.io/badge/-BharatMalik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatmalik1999@gmail.com)](mailto:bharatmalik1999@gmail.com)
+
