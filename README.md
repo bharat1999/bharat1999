@@ -14,5 +14,9 @@ I'm Bharat Malik pursuing my engineering in the field of information technology 
 - 👯 I’m looking to collaborate on interesting web projects. 
 - 💬 Ask me about anything, I'm up for a chat .
 
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-BharatMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-malik-91b884192/)](https://www.linkedin.com/in/bharat-malik-91b884192/)  [![Gmail Badge](https://img.shields.io/badge/-BharatMalik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatmalik1999@gmail.com)](mailto:bharatmalik1999@gmail.com)
 
