@@ -17,7 +17,7 @@ I'm Bharat Malik pursuing my engineering in the field of information technology 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bharat19998&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bharat1999&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1999&theme=tokyonight">
 </p>
  
