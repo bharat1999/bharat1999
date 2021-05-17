@@ -1,6 +1,6 @@
 ## :octocat: Welcome 👋 
 
-I'm Bharat Malik pursuing my engineering in the field of information technology from University School of Information, Communication, and Technology, I am a Web developer.I've experience in programming languages like C++, C, Java. I'm a Web developer and I have created some web projects in past.I have interest in the fields like Open Source, Full Stack Web Development, Machine Learning, App Development.
+I'm Bharat Malik pursuing my engineering in the field of information technology from University School of Information, Communication, and Technology, I am a Web developer.I've experience in programming languages like C++, C, Java. I'm a Web developer and I have created various web projects.
 
 ### Tech Stack 👨‍💻
 | Mongo🌈 | Express🌐 | React 📜 | Node 💻| Firebase 🔥 |
