@@ -20,3 +20,8 @@ I'm Bharat Malik pursuing my engineering in the field of information technology 
 
 [![Linkedin Badge](https://img.shields.io/badge/-BharatMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-malik-91b884192/)](https://www.linkedin.com/in/bharat-malik-91b884192/)  [![Gmail Badge](https://img.shields.io/badge/-BharatMalik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatmalik1999@gmail.com)](mailto:bharatmalik1999@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat1999&label=Profile Views&color=blue&style=plastic" alt="bharat1999" /> </p>
+
+
+
+
