@@ -1,6 +1,6 @@
 ## :octocat: Welcome 👋 
 
-I'm Bharat Malik pursuing my engineering in the field of information technology from University School of Information, Communication, and Technology, I am a Web developer.I've experience in programming languages like C++, C. I'm a MERN stack developer and I have created various web projects.
+I'm Bharat Malik done my engineering in the field of information technology from University School of Information, Communication, and Technology.I've experience in programming languages like C++,Ruby, Javascript. I'm a Full stack developer having experience in ruby on rails, react.js and next.js.
 
 ### Tech Stack 👨‍💻
 | Mongo🌈 | Express🌐 | React 📜 | Node 💻| Firebase 🔥 |
